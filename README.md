@@ -9,6 +9,6 @@
 - ⚡ Fun fact: Did you know that every day, we create 2.5 quintillion bytes of data? That's equivalent to filling 10 million Blu-ray discs! Insane ,isn't it?
 - 🤓 Technical Skills:
 -                     Programming Languages: Python, R, Java, SQL, NoSQL 
--                     Tools/Platforms: Cloudera BigData(Nuvepro lab), PowerBI, MySQL Workbench, MongoDB, Cassandra, Colab Notebook, Jupyter Notebook, Eclipse, RStudio
+-                     Tools/Platforms: Cloudera BigData(Nuvepro lab), PowerBI, MySQL Workbench, MongoDB, Cassandra, Anaconda Navigator, Eclipse, RStudio
 -                     Cloud Platform: AWS(S3,EC2)
 
